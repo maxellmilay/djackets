@@ -10,6 +10,7 @@
 ### Backend:
  - Python
  - Django
+ - Stripe
  - SQLite 3
 
 #### Bundler
