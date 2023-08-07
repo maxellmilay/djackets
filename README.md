@@ -13,5 +13,5 @@
  - Stripe
  - SQLite 3
 
-#### Bundler
+### Bundler
  - Vite
