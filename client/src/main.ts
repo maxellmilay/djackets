@@ -7,7 +7,7 @@ import axios from 'axios';
 import store from './store';
 import ToastPlugin from 'vue-toast-notification';
 
-axios.defaults.baseURL = 'http://127.0.0.1:8000';
+axios.defaults.baseURL = 'https://milaymaxell.pythonanywhere.com';
 
 const app = createApp(App);
 
