@@ -1,5 +1,13 @@
 # DJackets
 
+## Deployments
+
+### Frontend:
+*djackets.vercel.app*
+
+### Server:
+*milaymaxell.pythoneverywhere.com*
+
 ## Techstack
 
 ### Frontend:
