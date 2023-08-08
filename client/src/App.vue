@@ -3,7 +3,7 @@
     <div class="flex justify-between p-5 w-full bg-[#242424] text-white">
       <div class="flex items-center">
         <RouterLink class="text-semibold" to="/">DJackets</RouterLink>
-        <!-- <form method="get" action="/search" class="ml-5">
+        <form method="get" action="/search" class="ml-5">
           <input
             type="text"
             placeholder="What are you looking for?"
@@ -11,7 +11,7 @@
             class="bg-white px-4 py-2 rounded-tl-md rounded-bl-md text-black"
           />
           <button class="bg-green-500 py-2 px-3 rounded-tr-md rounded-br-md">Search</button>
-        </form> -->
+        </form>
       </div>
       <div class="flex">
         <div class="flex items-center">
