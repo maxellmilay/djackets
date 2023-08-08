@@ -29,6 +29,12 @@
             <RouterLink
               v-if="!store.state.isAuthenticated"
               class="text-black bg-white px-4 py-2 mr-3 rounded"
+              to="/sign-up"
+              >Sign-up</RouterLink
+            >
+            <RouterLink
+              v-if="!store.state.isAuthenticated"
+              class="text-black bg-white px-4 py-2 mr-3 rounded"
               to="/log-in"
               >Log in</RouterLink
             >

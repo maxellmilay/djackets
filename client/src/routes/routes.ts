@@ -14,7 +14,6 @@ const routes = [
   { path: '/search', name: 'Search', component: Search },
   { path: '/sign-up', name: 'SignUp', component: SignUp, meta: { title: 'Sign Up  |  DJackets' } },
   { path: '/log-in', name: 'LogIn', component: LogIn, meta: { title: 'Log In  | DJackets' } },
-
   {
     path: '/my-account',
     name: 'MyAccount',
