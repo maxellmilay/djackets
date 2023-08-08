@@ -8,7 +8,7 @@
 
 ### Server:
 
-[milaymaxell.pythoneverywhere.com](https://milaymaxell.pythoneverywhere.com)
+[milaymaxell.pythonanywhere.com](https://milaymaxell.pythonanywhere.com)
 
 ## TECHSTACK
 
