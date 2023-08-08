@@ -2,9 +2,13 @@
 
 ## DEPLOYMENTS
 
-[Frontend](https://djackets.vercel.app)
+### Frontend:
 
-[Server](https://milaymaxell.pythoneverywhere.com)
+[djackets.vercel.app](https://djackets.vercel.app)
+
+### Server:
+
+[milaymaxell.pythoneverywhere.com](https://milaymaxell.pythoneverywhere.com)
 
 ## TECHSTACK
 
