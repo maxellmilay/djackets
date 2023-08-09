@@ -1,5 +1,7 @@
 # DJackets
 
+An e-commerce website where users can create their own account to buy different jackets. Card payment methods are then processed after cart checkout through Stripe.
+
 ## DEPLOYMENTS
 
 ### Frontend:
